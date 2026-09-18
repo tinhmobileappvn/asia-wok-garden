@@ -8,9 +8,15 @@ if (getApps().length === 0) {
     let credential;
     let projectId;
     try {
-      const serviceAccount = require('../../firebase-service-account.json');
-      credential = cert(serviceAccount);
-      projectId = serviceAccount.project_id;
+      if (process.env.FIREBASE_SERVICE_ACCOUNT) {
+        const serviceAccount = JSON.parse(process.env.FIREBASE_SERVICE_ACCOUNT);
+        credential = cert(serviceAccount);
+        projectId = serviceAccount.project_id;
+      } else {
+        const serviceAccount = require('../../firebase-service-account.json');
+        credential = cert(serviceAccount);
+        projectId = serviceAccount.project_id;
+      }
     } catch (e) {
       console.log('No firebase-service-account.json found. Falling back to application default credentials.');
       credential = applicationDefault();
