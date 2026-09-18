@@ -1,0 +1,2180 @@
+[
+  {
+    "id": "27600c8495f9e400de24a276",
+    "name": {
+      "EN": "101. Veggie Power Menu",
+      "DE": "101. Veggie Power Menu"
+    },
+    "category": "MENUS",
+    "description": {
+      "EN": "6x Cucumbers Maki\n6x Avocado Maki  \n2x Avocado Nigiri\n2x Tamago Nigiri\n4x Veggie Inside Out Roll",
+      "DE": "6x Cucumbers Maki\n6x Avocado Maki  \n2x Avocado Nigiri\n2x Tamago Nigiri\n4x Veggie Inside Out Roll"
+    },
+    "price": 22,
+    "image": ""
+  },
+  {
+    "id": "96945605ba287285f6975575",
+    "name": {
+      "EN": "102. Veggie Lover Menu",
+      "DE": "102. Veggie Lover Menu"
+    },
+    "category": "MENUS",
+    "description": {
+      "EN": "6x Avocado Maki \n2x Tamago Nigiri\n4x Veggie Inside Out Roll\n5x Veggie Crunchy Roll",
+      "DE": "6x Avocado Maki \n2x Tamago Nigiri\n4x Veggie Inside Out Roll\n5x Veggie Crunchy Roll"
+    },
+    "price": 27,
+    "image": "https://imageproxy.wolt.com/assets/682c24bb9cabc3046cfa363b"
+  },
+  {
+    "id": "4cf8620c66502367da07d2c6",
+    "name": {
+      "EN": "103. Salmon Lover Menu",
+      "DE": "103. Salmon Lover Menu"
+    },
+    "category": "MENUS",
+    "description": {
+      "EN": "6x Salmon Maki\n4x Alaska Inside Out Roll\n4x Salmon Nigiri",
+      "DE": "6x Salmon Maki\n4x Alaska Inside Out Roll\n4x Salmon Nigiri"
+    },
+    "price": 22,
+    "image": "https://imageproxy.wolt.com/assets/69b2633cdd30e9dbd31e03b7"
+  },
+  {
+    "id": "a7541abe1b1d153f2bbc76f2",
+    "name": {
+      "EN": "104. Sakura Menu",
+      "DE": "104. Sakura Menu"
+    },
+    "category": "MENUS",
+    "description": {
+      "EN": "4x Salmon Nigiri\n2x Tuna Nigiri\n2x Ebi Nigiri\n2x Avocado Nigiri",
+      "DE": "4x Salmon Nigiri\n2x Tuna Nigiri\n2x Ebi Nigiri\n2x Avocado Nigiri"
+    },
+    "price": 27,
+    "image": ""
+  },
+  {
+    "id": "5bbd037af92bdcb96b70f501",
+    "name": {
+      "EN": "105. Tekka Lover Menu",
+      "DE": "105. Tekka Lover Menu"
+    },
+    "category": "MENUS",
+    "description": {
+      "EN": "6x Tekka Maki \n2x Maguro Nigiri \n8x Tekka Inside Out Roll\n4x Tuna Sashimi",
+      "DE": "6x Tekka Maki \n2x Maguro Nigiri \n8x Tekka Inside Out Roll\n4x Tuna Sashimi"
+    },
+    "price": 32,
+    "image": ""
+  },
+  {
+    "id": "5641ae8f0006cd55472a5518",
+    "name": {
+      "EN": "106. Garden Lover Menu",
+      "DE": "106. Garden Lover Menu"
+    },
+    "category": "MENUS",
+    "description": {
+      "EN": "6x Salmon Maki\n6x Cucumbers Maki\n2x Salmon Nigiri\n2x Maguro Nigiri \n5x Salmon Crunchy Roll",
+      "DE": "6x Salmon Maki\n6x Cucumbers Maki\n2x Salmon Nigiri\n2x Maguro Nigiri \n5x Salmon Crunchy Roll"
+    },
+    "price": 37,
+    "image": ""
+  },
+  {
+    "id": "420c06db0e8154f35ad14860",
+    "name": {
+      "EN": "107. Garden Deluxe Menu",
+      "DE": "107. Garden Deluxe Menu"
+    },
+    "category": "MENUS",
+    "description": {
+      "EN": "12x Salmon Maki\n12x Cucumbers Maki\n4x Salmon Nigiri \n4x Maguro Nigiri\n10x Salmon Crunchy Roll",
+      "DE": "12x Salmon Maki\n12x Cucumbers Maki\n4x Salmon Nigiri \n4x Maguro Nigiri\n10x Salmon Crunchy Roll"
+    },
+    "price": 57,
+    "image": ""
+  },
+  {
+    "id": "281fa2cf230c076aa0575579",
+    "name": {
+      "EN": "108. Party Box Lover Menu",
+      "DE": "108. Party Box Lover Menu"
+    },
+    "category": "MENUS",
+    "description": {
+      "EN": "18x Mix Maki\n10x Mix Nigiri\n10x Flambéed Nigiri\n8x Sakura Power Roll\n8x Rocket Inside Out Roll\n8x Tiger Roll",
+      "DE": "18x Mix Maki\n10x Mix Nigiri\n10x Flambéed Nigiri\n8x Sakura Power Roll\n8x Rocket Inside Out Roll\n8x Tiger Roll"
+    },
+    "price": 105,
+    "image": ""
+  },
+  {
+    "id": "36368b20698457cee7725d2f",
+    "name": {
+      "EN": "109. Party Box Deluxe Menu",
+      "DE": "109. Party Box Deluxe Menu"
+    },
+    "category": "MENUS",
+    "description": {
+      "EN": "24x Mix Maki\n4x Salmon Nigiri\n4x Tuna Nigiri\n4x Ebi Nigiri\n4x Scallop Nigiri\n4x Flambéed Nigiri\n8x Gunkan Roll\n5x Crunchy Roll\n8x Tiger Roll\n8x Avocado Deluxe Roll",
+      "DE": "24x Mix Maki\n4x Salmon Nigiri\n4x Tuna Nigiri\n4x Ebi Nigiri\n4x Scallop Nigiri\n4x Flambéed Nigiri\n8x Gunkan Roll\n5x Crunchy Roll\n8x Tiger Roll\n8x Avocado Deluxe Roll"
+    },
+    "price": 125,
+    "image": "https://imageproxy.wolt.com/assets/68270d24a8eb0e0a8f87e8a1"
+  },
+  {
+    "id": "4d6f0e7d359e27ae2c9b6b76",
+    "name": {
+      "EN": "20. Edamame",
+      "DE": "20. Edamame"
+    },
+    "category": "STARTERS 🫛",
+    "description": {
+      "EN": "cooked soybeans with sea salt",
+      "DE": "cooked soybeans with sea salt"
+    },
+    "price": 6,
+    "image": "https://imageproxy.wolt.com/assets/6826e9e4aaa4c60da76f8cda"
+  },
+  {
+    "id": "45735705130dee6dfc6f5cae",
+    "name": {
+      "EN": "21. Nem Chay",
+      "DE": "21. Nem Chay"
+    },
+    "category": "STARTERS 🫛",
+    "description": {
+      "EN": "8 pieces\nvegetarian mini spring rolls",
+      "DE": "8 pieces\nvegetarian mini spring rolls"
+    },
+    "price": 6,
+    "image": "https://imageproxy.wolt.com/assets/6826ea70179b9796c747fa1b"
+  },
+  {
+    "id": "5e05d1f4a1517b9c2737f0d2",
+    "name": {
+      "EN": "22. Nem Viet",
+      "DE": "22. Nem Viet"
+    },
+    "category": "STARTERS 🫛",
+    "description": {
+      "EN": "2 pieces\nhomemade Vietnamese spring rolls filled with prawns, mixed minced pork, glass noodles, vegetables and homemade chili fish sauce",
+      "DE": "2 pieces\nhomemade Vietnamese spring rolls filled with prawns, mixed minced pork, glass noodles, vegetables and homemade chili fish sauce"
+    },
+    "price": 6.5,
+    "image": "https://imageproxy.wolt.com/assets/6826ecb7179b9796c747fa34"
+  },
+  {
+    "id": "e9605048557a284e36de6af5",
+    "name": {
+      "EN": "23. Goi Cuon",
+      "DE": "23. Goi Cuon"
+    },
+    "category": "STARTERS 🫛",
+    "description": {
+      "EN": "2 pieces\nwith Vietnamese summer rolls, rice noodles, lettuce, cilantro, basil, mint, carrots, cucumbers, bell peppers, homemade chili fish sauce and an ingredient of your choice",
+      "DE": "2 pieces\nwith Vietnamese summer rolls, rice noodles, lettuce, cilantro, basil, mint, carrots, cucumbers, bell peppers, homemade chili fish sauce and an ingredient of your choice"
+    },
+    "price": 7,
+    "image": "https://imageproxy.wolt.com/assets/682c34e19cabc3046cfa388b"
+  },
+  {
+    "id": "eeb99a08152d490b12e3e61c",
+    "name": {
+      "EN": "24. Ebi Tempura",
+      "DE": "24. Ebi Tempura"
+    },
+    "category": "STARTERS 🫛",
+    "description": {
+      "EN": "3 pieces\nwith breaded prawns and sweet chili sauce",
+      "DE": "3 pieces\nwith breaded prawns and sweet chili sauce"
+    },
+    "price": 7.5,
+    "image": "https://imageproxy.wolt.com/assets/6826e9efaaa4c60da76f8cdc"
+  },
+  {
+    "id": "8fa9f44537369a6d02c0f139",
+    "name": {
+      "EN": "25. Yakitori Skewers",
+      "DE": "25. Yakitori Skewers"
+    },
+    "category": "STARTERS 🫛",
+    "description": {
+      "EN": "3 pieces\nwith grilled chicken skewers and sesame seeds",
+      "DE": "3 pieces\nwith grilled chicken skewers and sesame seeds"
+    },
+    "price": 7.5,
+    "image": "https://imageproxy.wolt.com/assets/6826e33c6c11c1b0ccaa216b"
+  },
+  {
+    "id": "5bb82d819ae6ac02ffe25f90",
+    "name": {
+      "EN": "26. Dim Sum Dumplings",
+      "DE": "26. Dim Sum Dumplings"
+    },
+    "category": "STARTERS 🫛",
+    "description": {
+      "EN": "4 pieces \ndumplings filled with soy sauce and an ingredient of your choice",
+      "DE": "4 pieces \ndumplings filled with soy sauce and an ingredient of your choice"
+    },
+    "price": 6,
+    "image": "https://imageproxy.wolt.com/assets/6826eff2179b9796c747fa52"
+  },
+  {
+    "id": "f8a28954c5d39767747ba27f",
+    "name": {
+      "EN": "15. Seaweed Salad",
+      "DE": "15. Seaweed Salad"
+    },
+    "category": "SALADS",
+    "description": {
+      "EN": "green seaweed with sesame",
+      "DE": "green seaweed with sesame"
+    },
+    "price": 6,
+    "image": "https://imageproxy.wolt.com/assets/6826ecc3179b9796c747fa36"
+  },
+  {
+    "id": "17ae3553d8183d375e5be6f5",
+    "name": {
+      "EN": "16. Salad Xoai Tâm",
+      "DE": "16. Salad Xoai Tâm"
+    },
+    "category": "SALADS",
+    "description": {
+      "EN": "with black tiger prawns, mango, cucumbers, peanuts and homemade chili fish sauce",
+      "DE": "with black tiger prawns, mango, cucumbers, peanuts and homemade chili fish sauce"
+    },
+    "price": 7.5,
+    "image": ""
+  },
+  {
+    "id": "6f2391cbb132f103bac475f2",
+    "name": {
+      "EN": "17. Mien Tom Salad",
+      "DE": "17. Mien Tom Salad"
+    },
+    "category": "SALADS",
+    "description": {
+      "EN": "with black tiger prawns, glass noodles, peanuts and homemade chili fish sauce",
+      "DE": "with black tiger prawns, glass noodles, peanuts and homemade chili fish sauce"
+    },
+    "price": 7.5,
+    "image": ""
+  },
+  {
+    "id": "1e1823fc4628364aa65cf3c8",
+    "name": {
+      "EN": "18. Mixed Salad",
+      "DE": "18. Mixed Salad"
+    },
+    "category": "SALADS",
+    "description": {
+      "EN": "with lettuce, cucumbers, rocket and homemade dressing",
+      "DE": "with lettuce, cucumbers, rocket and homemade dressing"
+    },
+    "price": 6,
+    "image": "https://imageproxy.wolt.com/assets/69b26515d5fdebcf7f69ac49"
+  },
+  {
+    "id": "2bd84e1411cfc29fb155dfd6",
+    "name": {
+      "EN": "10. Super Miso",
+      "DE": "10. Super Miso"
+    },
+    "category": "SOUPS",
+    "description": {
+      "EN": "with miso paste and green seaweed",
+      "DE": "with miso paste and green seaweed"
+    },
+    "price": 6.5,
+    "image": "https://imageproxy.wolt.com/assets/6826f0b7179b9796c747fa55"
+  },
+  {
+    "id": "a9f31dfddc322d6f0b08d49c",
+    "name": {
+      "EN": "11. Sup Mien",
+      "DE": "11. Sup Mien"
+    },
+    "category": "SOUPS",
+    "description": {
+      "EN": "with glass noodles, champignons, morels and vegetables",
+      "DE": "with glass noodles, champignons, morels and vegetables"
+    },
+    "price": 6.5,
+    "image": "https://imageproxy.wolt.com/assets/69b2652dd5fdebcf7f69ac4e"
+  },
+  {
+    "id": "b9dfb860b07e066b8ff89218",
+    "name": {
+      "EN": "12. Tom Kha Gai",
+      "DE": "12. Tom Kha Gai"
+    },
+    "category": "SOUPS",
+    "description": {
+      "EN": "spicy\nwith coconut milk, champignons, pineapple, tomatoes, coriander and basil",
+      "DE": "spicy\nwith coconut milk, champignons, pineapple, tomatoes, coriander and basil"
+    },
+    "price": 6.5,
+    "image": "https://imageproxy.wolt.com/assets/6826efc3aaa4c60da76f8d10"
+  },
+  {
+    "id": "e0233105277b001f109f9bc0",
+    "name": {
+      "EN": "13. Tom Yam Gung",
+      "DE": "13. Tom Yam Gung"
+    },
+    "category": "SOUPS",
+    "description": {
+      "EN": "spicy\nwith lemongrass, champignons, pineapple, tomatoes, coriander and basil",
+      "DE": "spicy\nwith lemongrass, champignons, pineapple, tomatoes, coriander and basil"
+    },
+    "price": 6.5,
+    "image": "https://imageproxy.wolt.com/assets/682c29952d64249a40d47a96"
+  },
+  {
+    "id": "55e8381e3d0f21cf3f3c7159",
+    "name": {
+      "EN": "35. Sot Xao",
+      "DE": "35. Sot Xao"
+    },
+    "category": "MAIN COURSES ️",
+    "description": {
+      "EN": "with boiled rice and homemade dark sauce",
+      "DE": "with boiled rice and homemade dark sauce"
+    },
+    "price": 13.5,
+    "image": "https://imageproxy.wolt.com/assets/6826e4896c11c1b0ccaa2174"
+  },
+  {
+    "id": "2a050d43020d844f5fdcc2da",
+    "name": {
+      "EN": "36. Sot Toi Hung",
+      "DE": "36. Sot Toi Hung"
+    },
+    "category": "MAIN COURSES ️",
+    "description": {
+      "EN": "spicy\nwith cooked rice, garlic, basil and homemade spicy sauce",
+      "DE": "spicy\nwith cooked rice, garlic, basil and homemade spicy sauce"
+    },
+    "price": 13.5,
+    "image": "https://imageproxy.wolt.com/assets/6826e2ba6c11c1b0ccaa2162"
+  },
+  {
+    "id": "4d8af731442cbf27b2e99672",
+    "name": {
+      "EN": "37. Sot Sa Ot",
+      "DE": "37. Sot Sa Ot"
+    },
+    "category": "MAIN COURSES ️",
+    "description": {
+      "EN": "with cooked rice, lemongrass, chili and homemade spicy sauce",
+      "DE": "with cooked rice, lemongrass, chili and homemade spicy sauce"
+    },
+    "price": 13.5,
+    "image": "https://imageproxy.wolt.com/assets/69b26576d5fdebcf7f69ac6e"
+  },
+  {
+    "id": "f07d5cbcc31408bd81dae320",
+    "name": {
+      "EN": "38. Sot Xoai",
+      "DE": "38. Sot Xoai"
+    },
+    "category": "MAIN COURSES ️",
+    "description": {
+      "EN": "with boiled rice, fresh mango and mango-coconut sauce",
+      "DE": "with boiled rice, fresh mango and mango-coconut sauce"
+    },
+    "price": 13.5,
+    "image": "https://imageproxy.wolt.com/assets/69b26590d5fdebcf7f69ac77"
+  },
+  {
+    "id": "c84d6a5cb87d984aa61e037b",
+    "name": {
+      "EN": "39. Sot Curry Vang",
+      "DE": "39. Sot Curry Vang"
+    },
+    "category": "MAIN COURSES ️",
+    "description": {
+      "EN": "with boiled rice, yellow Thai curry, coconut milk and basil",
+      "DE": "with boiled rice, yellow Thai curry, coconut milk and basil"
+    },
+    "price": 13.5,
+    "image": "https://imageproxy.wolt.com/assets/69b265cdd5fdebcf7f69ac88"
+  },
+  {
+    "id": "da4bb6b0da048575e57b2256",
+    "name": {
+      "EN": "40. Sot Curry Do La",
+      "DE": "40. Sot Curry Do La"
+    },
+    "category": "MAIN COURSES ️",
+    "description": {
+      "EN": "with boiled rice, red Thai curry, coconut milk and basil",
+      "DE": "with boiled rice, red Thai curry, coconut milk and basil"
+    },
+    "price": 13.5,
+    "image": "https://imageproxy.wolt.com/assets/69b2661cf86278773c634f1f"
+  },
+  {
+    "id": "707e070c76bba37f3b13676d",
+    "name": {
+      "EN": "41. Sot Lac",
+      "DE": "41. Sot Lac"
+    },
+    "category": "MAIN COURSES ️",
+    "description": {
+      "EN": "with boiled rice and peanut-coconut sauce",
+      "DE": "with boiled rice and peanut-coconut sauce"
+    },
+    "price": 13.5,
+    "image": "https://imageproxy.wolt.com/assets/6826ecbc179b9796c747fa35"
+  },
+  {
+    "id": "140e5a45994f4d756c2cff9f",
+    "name": {
+      "EN": "30. Com Rank",
+      "DE": "30. Com Rank"
+    },
+    "category": "RICE & NOODLES",
+    "description": {
+      "EN": "fried rice with egg",
+      "DE": "fried rice with egg"
+    },
+    "price": 12.5,
+    "image": "https://imageproxy.wolt.com/assets/6826fe52c67a41d8bdb4efd9"
+  },
+  {
+    "id": "ad44325497ef8a15f915308c",
+    "name": {
+      "EN": "31. Pho Xao",
+      "DE": "31. Pho Xao"
+    },
+    "category": "RICE & NOODLES",
+    "description": {
+      "EN": "fried rice noodles",
+      "DE": "fried rice noodles"
+    },
+    "price": 12.5,
+    "image": "https://imageproxy.wolt.com/assets/682ae8a46c11c1b0ccaa28fe"
+  },
+  {
+    "id": "da9724aba76afadb77e71bb2",
+    "name": {
+      "EN": "32. Mien Xao",
+      "DE": "32. Mien Xao"
+    },
+    "category": "RICE & NOODLES",
+    "description": {
+      "EN": "fried glass noodles",
+      "DE": "fried glass noodles"
+    },
+    "price": 12.5,
+    "image": "https://imageproxy.wolt.com/assets/6826e2ad6c11c1b0ccaa2161"
+  },
+  {
+    "id": "0f6b5427dcfb91f420d18757",
+    "name": {
+      "EN": "33. Udon Xao",
+      "DE": "33. Udon Xao"
+    },
+    "category": "RICE & NOODLES",
+    "description": {
+      "EN": "fried udon noodles with sesame",
+      "DE": "fried udon noodles with sesame"
+    },
+    "price": 12.5,
+    "image": "https://imageproxy.wolt.com/assets/6826e4946c11c1b0ccaa2177"
+  },
+  {
+    "id": "60d010d5243d6989e3c1352f",
+    "name": {
+      "EN": "34. Pad Thai",
+      "DE": "34. Pad Thai"
+    },
+    "category": "RICE & NOODLES",
+    "description": {
+      "EN": "spicy \nfried rice noodles with peanuts and Pad Thai sauce",
+      "DE": "spicy \nfried rice noodles with peanuts and Pad Thai sauce"
+    },
+    "price": 12.5,
+    "image": "https://imageproxy.wolt.com/assets/6826ec186c11c1b0ccaa21b2"
+  },
+  {
+    "id": "22e73b7b42563aa3b157bc8e",
+    "name": {
+      "EN": "1. Pho",
+      "DE": "1. Pho"
+    },
+    "category": "GARDEN SPECIALTIES",
+    "description": {
+      "EN": "rice noodle soup with Vietnamese spices, ginger, spring onions, bean sprouts, spring onions, coriander and an ingredient of your choice",
+      "DE": "rice noodle soup with Vietnamese spices, ginger, spring onions, bean sprouts, spring onions, coriander and an ingredient of your choice"
+    },
+    "price": 14.5,
+    "image": "https://imageproxy.wolt.com/assets/682ade7e8a57ca1457e50ce8"
+  },
+  {
+    "id": "b9df1d627435140b94e81d14",
+    "name": {
+      "EN": "2. Bun Nem",
+      "DE": "2. Bun Nem"
+    },
+    "category": "GARDEN SPECIALTIES",
+    "description": {
+      "EN": "rice noodles with salad, peanuts, Vietnamese herbs, homemade chili fish sauce and an ingredient of your choice",
+      "DE": "rice noodles with salad, peanuts, Vietnamese herbs, homemade chili fish sauce and an ingredient of your choice"
+    },
+    "price": 14.5,
+    "image": "https://imageproxy.wolt.com/assets/69b26672dd30e9dbd31e0466"
+  },
+  {
+    "id": "ecaf1eeb4fc9d8976f3cf2bf",
+    "name": {
+      "EN": "3. Bun Bo Nam Bo",
+      "DE": "3. Bun Bo Nam Bo"
+    },
+    "category": "GARDEN SPECIALTIES",
+    "description": {
+      "EN": "rice noodles with beef, lettuce, lemongrass, bean sprouts, peanuts, Vietnamese herbs and homemade chili fish sauce",
+      "DE": "rice noodles with beef, lettuce, lemongrass, bean sprouts, peanuts, Vietnamese herbs and homemade chili fish sauce"
+    },
+    "price": 16.5,
+    "image": "https://imageproxy.wolt.com/assets/69b26682f86278773c634f45"
+  },
+  {
+    "id": "30e2415b11ba415edaad862e",
+    "name": {
+      "EN": "4. Bun Cha Ha Noi",
+      "DE": "4. Bun Cha Ha Noi"
+    },
+    "category": "GARDEN SPECIALTIES",
+    "description": {
+      "EN": "rice noodles with grilled pork, salad, Vietnamese herbs and homemade chili fish sauce",
+      "DE": "rice noodles with grilled pork, salad, Vietnamese herbs and homemade chili fish sauce"
+    },
+    "price": 16.5,
+    "image": "https://imageproxy.wolt.com/assets/6826e63b6c11c1b0ccaa2188"
+  },
+  {
+    "id": "5d6c49840bb551278e325d99",
+    "name": {
+      "EN": "5. Bun Bo Hue",
+      "DE": "5. Bun Bo Hue"
+    },
+    "category": "GARDEN SPECIALTIES",
+    "description": {
+      "EN": "spicy\nrice noodle soup with lemongrass, spicy broth with chili, coriander, bean sprouts, beef and beef meatballs, basil, mint and spring onions",
+      "DE": "spicy\nrice noodle soup with lemongrass, spicy broth with chili, coriander, bean sprouts, beef and beef meatballs, basil, mint and spring onions"
+    },
+    "price": 16.5,
+    "image": "https://imageproxy.wolt.com/assets/6826e2a66c11c1b0ccaa2160"
+  },
+  {
+    "id": "8c71686f7f242d2e1b30a5f1",
+    "name": {
+      "EN": "6. Mi Udon Bo",
+      "DE": "6. Mi Udon Bo"
+    },
+    "category": "GARDEN SPECIALTIES",
+    "description": {
+      "EN": "udon noodle soup with beef, miso paste, vegetables, coriander and spring onions",
+      "DE": "udon noodle soup with beef, miso paste, vegetables, coriander and spring onions"
+    },
+    "price": 16.5,
+    "image": "https://imageproxy.wolt.com/assets/682ad5fc6c11c1b0ccaa284a"
+  },
+  {
+    "id": "2e34411beb400b9fa2ce69ed",
+    "name": {
+      "EN": "7. Mi Udon Vit",
+      "DE": "7. Mi Udon Vit"
+    },
+    "category": "GARDEN SPECIALTIES",
+    "description": {
+      "EN": "spicy\nudon noodle soup with crispy duck, tom yam paste, vegetables, cilantro and spring onions",
+      "DE": "spicy\nudon noodle soup with crispy duck, tom yam paste, vegetables, cilantro and spring onions"
+    },
+    "price": 17.5,
+    "image": "https://imageproxy.wolt.com/assets/6826e4b46c11c1b0ccaa217c"
+  },
+  {
+    "id": "6d879ba19136752eade69121",
+    "name": {
+      "EN": "8. Sushi Bowl",
+      "DE": "8. Sushi Bowl"
+    },
+    "category": "GARDEN SPECIALTIES",
+    "description": {
+      "EN": "sushi rice with avocado, lettuce, cucumbers, edamame, mango, sesame, nori sheets, teriyaki sauce and an ingredient of your choice",
+      "DE": "sushi rice with avocado, lettuce, cucumbers, edamame, mango, sesame, nori sheets, teriyaki sauce and an ingredient of your choice"
+    },
+    "price": 14.5,
+    "image": "https://imageproxy.wolt.com/assets/6826e63f6c11c1b0ccaa2189"
+  },
+  {
+    "id": "1aa6e7d69c7096ecd1a1ec7e",
+    "name": {
+      "EN": "81. Veggie Rainbow Roll",
+      "DE": "81. Veggie Rainbow Roll"
+    },
+    "category": "GARDEN SIGNATURE ROLLS",
+    "description": {
+      "EN": "with cucumbers, bell peppers, eggs, rocket and avocado",
+      "DE": "with cucumbers, bell peppers, eggs, rocket and avocado"
+    },
+    "price": 16.5,
+    "image": "https://imageproxy.wolt.com/assets/69b266a0f86278773c634f4e",
+    "isSignature": true
+  },
+  {
+    "id": "144124ed15354b9fd3962dc8",
+    "name": {
+      "EN": "82. Avocado Deluxe Roll",
+      "DE": "82. Avocado Deluxe Roll"
+    },
+    "category": "GARDEN SIGNATURE ROLLS",
+    "description": {
+      "EN": "with salmon, cucumbers, cream cheese and avocado",
+      "DE": "with salmon, cucumbers, cream cheese and avocado"
+    },
+    "price": 16.5,
+    "image": "https://imageproxy.wolt.com/assets/69b266d3dd30e9dbd31e048c",
+    "isSignature": true
+  },
+  {
+    "id": "349ce51615c9dedce13339c5",
+    "name": {
+      "EN": "83. Tiger Roll",
+      "DE": "83. Tiger Roll"
+    },
+    "category": "GARDEN SIGNATURE ROLLS",
+    "description": {
+      "EN": "with ebi tempura, avocado, cream cheese and salmon",
+      "DE": "with ebi tempura, avocado, cream cheese and salmon"
+    },
+    "price": 16.5,
+    "image": "https://imageproxy.wolt.com/assets/69b26716f86278773c634f64",
+    "isSignature": true
+  },
+  {
+    "id": "e911c87a7b068679ae943739",
+    "name": {
+      "EN": "84. Garden Power Roll",
+      "DE": "84. Garden Power Roll"
+    },
+    "category": "GARDEN SIGNATURE ROLLS",
+    "description": {
+      "EN": "with breaded prawns, cream cheese, salmon and avocado\n\n",
+      "DE": "with breaded prawns, cream cheese, salmon and avocado\n\n"
+    },
+    "price": 16.5,
+    "image": "https://imageproxy.wolt.com/assets/69b26734dd30e9dbd31e04ce",
+    "isSignature": true
+  },
+  {
+    "id": "018a50058d7b0f145fba1a98",
+    "name": {
+      "EN": "85. Dragon Roll",
+      "DE": "85. Dragon Roll"
+    },
+    "category": "GARDEN SIGNATURE ROLLS",
+    "description": {
+      "EN": "with breaded prawns, avocado, cream cheese and eel",
+      "DE": "with breaded prawns, avocado, cream cheese and eel"
+    },
+    "price": 16.5,
+    "image": "https://imageproxy.wolt.com/assets/69b2675cdd30e9dbd31e04d2",
+    "isSignature": true
+  },
+  {
+    "id": "adaf7817f862bc436310d4ca",
+    "name": {
+      "EN": "86. Garden Style Roll",
+      "DE": "86. Garden Style Roll"
+    },
+    "category": "GARDEN SIGNATURE ROLLS",
+    "description": {
+      "EN": "with avocado, cucumbers, ebi, surimi, salmon and tuna",
+      "DE": "with avocado, cucumbers, ebi, surimi, salmon and tuna"
+    },
+    "price": 16.5,
+    "image": "https://imageproxy.wolt.com/assets/69b267a7dd30e9dbd31e04e1",
+    "isSignature": true
+  },
+  {
+    "id": "cbd99bdebacf9789a4e69fc8",
+    "name": {
+      "EN": "87. Black Tiger Power Roll",
+      "DE": "87. Black Tiger Power Roll"
+    },
+    "category": "GARDEN SIGNATURE ROLLS",
+    "description": {
+      "EN": "with Ebi Tempura, avocado, cream cheese and prawns ",
+      "DE": "with Ebi Tempura, avocado, cream cheese and prawns "
+    },
+    "price": 16.5,
+    "image": "https://imageproxy.wolt.com/assets/69b266f6f86278773c634f5e",
+    "isSignature": false
+  },
+  {
+    "id": "ac8cd850441a070022ee5a5f",
+    "name": {
+      "EN": "88. Tekka on Fire Roll",
+      "DE": "88. Tekka on Fire Roll"
+    },
+    "category": "GARDEN SIGNATURE ROLLS",
+    "description": {
+      "EN": "with tuna, cucumbers and flambéed tuna tartare as topping",
+      "DE": "with tuna, cucumbers and flambéed tuna tartare as topping"
+    },
+    "price": 16.5,
+    "image": "https://imageproxy.wolt.com/assets/69b267ced5fdebcf7f69ad18"
+  },
+  {
+    "id": "cabcbf03be862bc50c8c3189",
+    "name": {
+      "EN": "89. Garden Roll",
+      "DE": "89. Garden Roll"
+    },
+    "category": "GARDEN SIGNATURE ROLLS",
+    "description": {
+      "EN": "with ebi tempura, avocado, cream cheese and salmon tartare as topping",
+      "DE": "with ebi tempura, avocado, cream cheese and salmon tartare as topping"
+    },
+    "price": 16.5,
+    "image": "https://imageproxy.wolt.com/assets/69b26818f86278773c634f9d"
+  },
+  {
+    "id": "94855641fbba2a7e9e41fa33",
+    "name": {
+      "EN": "90. Veggie Inside-Out Roll",
+      "DE": "90. Veggie Inside-Out Roll"
+    },
+    "category": "INSIDE OUT ROLLS",
+    "description": {
+      "EN": "with avocado, cucumbers, bell peppers, radish, rocket and sesame",
+      "DE": "with avocado, cucumbers, bell peppers, radish, rocket and sesame"
+    },
+    "price": 13.5,
+    "image": "https://imageproxy.wolt.com/assets/69b26842d5fdebcf7f69ad37"
+  },
+  {
+    "id": "ed076c3a8a3cd55750b39877",
+    "name": {
+      "EN": "91. Classic Inside Out Roll",
+      "DE": "91. Classic Inside Out Roll"
+    },
+    "category": "INSIDE OUT ROLLS",
+    "description": {
+      "EN": "with surimi, avocado, cucumbers, ebi, mayonnaise and a topping of your choice",
+      "DE": "with surimi, avocado, cucumbers, ebi, mayonnaise and a topping of your choice"
+    },
+    "price": 13.5,
+    "image": "https://imageproxy.wolt.com/assets/69b2689cdd30e9dbd31e0523"
+  },
+  {
+    "id": "7784344fb70fd9b5ff59bd98",
+    "name": {
+      "EN": "92. Rocket Inside Out Roll",
+      "DE": "92. Rocket Inside Out Roll"
+    },
+    "category": "INSIDE OUT ROLLS",
+    "description": {
+      "EN": "with salmon, cucumbers, rocket, cream cheese and sesame",
+      "DE": "with salmon, cucumbers, rocket, cream cheese and sesame"
+    },
+    "price": 13.5,
+    "image": "https://imageproxy.wolt.com/assets/69b268b4d5fdebcf7f69ad4d"
+  },
+  {
+    "id": "b73f66890e68321668bcc784",
+    "name": {
+      "EN": "93. Alaska Inside Out Roll",
+      "DE": "93. Alaska Inside Out Roll"
+    },
+    "category": "INSIDE OUT ROLLS",
+    "description": {
+      "EN": "with salmon, avocado and a topping of your choice",
+      "DE": "with salmon, avocado and a topping of your choice"
+    },
+    "price": 13.5,
+    "image": "https://imageproxy.wolt.com/assets/69b26939d5fdebcf7f69ad90"
+  },
+  {
+    "id": "b544751d407a0d67d94ba89b",
+    "name": {
+      "EN": "94. Salmon Cucumbers Inside Out Roll",
+      "DE": "94. Salmon Cucumbers Inside Out Roll"
+    },
+    "category": "INSIDE OUT ROLLS",
+    "description": {
+      "EN": "with salmon, cucumbers, cream cheese and a topping of your choice",
+      "DE": "with salmon, cucumbers, cream cheese and a topping of your choice"
+    },
+    "price": 13.5,
+    "image": "https://imageproxy.wolt.com/assets/69b26953dd30e9dbd31e0559"
+  },
+  {
+    "id": "6c8665094bc5f5971ac7144c",
+    "name": {
+      "EN": "95. Ebiten Inside Out Roll",
+      "DE": "95. Ebiten Inside Out Roll"
+    },
+    "category": "INSIDE OUT ROLLS",
+    "description": {
+      "EN": "with Ebi Tempura, avocado, cream cheese and a topping of your choice",
+      "DE": "with Ebi Tempura, avocado, cream cheese and a topping of your choice"
+    },
+    "price": 13.5,
+    "image": "https://imageproxy.wolt.com/assets/69b269a3d5fdebcf7f69adaf"
+  },
+  {
+    "id": "584e20841f31852624865ea8",
+    "name": {
+      "EN": "96. Tuna Inside-Out Roll",
+      "DE": "96. Tuna Inside-Out Roll"
+    },
+    "category": "INSIDE OUT ROLLS",
+    "description": {
+      "EN": "with cooked tuna, cucumbers, mayonnaise and sesame",
+      "DE": "with cooked tuna, cucumbers, mayonnaise and sesame"
+    },
+    "price": 13.5,
+    "image": "https://imageproxy.wolt.com/assets/69b269bdf86278773c635028"
+  },
+  {
+    "id": "3349e960a9747fb59b4d756d",
+    "name": {
+      "EN": "97. Veggie Crunchy Roll",
+      "DE": "97. Veggie Crunchy Roll"
+    },
+    "category": "CRUNCHY ROLLS",
+    "description": {
+      "EN": "with egg, avocado and radish",
+      "DE": "with egg, avocado and radish"
+    },
+    "price": 13.5,
+    "image": "https://imageproxy.wolt.com/assets/69b269e6f86278773c635036"
+  },
+  {
+    "id": "95f417ab6839fc4eb112e579",
+    "name": {
+      "EN": "98. Salmon Crunchy Roll",
+      "DE": "98. Salmon Crunchy Roll"
+    },
+    "category": "CRUNCHY ROLLS",
+    "description": {
+      "EN": "with salmon, avocado, cream cheese and sesame",
+      "DE": "with salmon, avocado, cream cheese and sesame"
+    },
+    "price": 13.5,
+    "image": "https://imageproxy.wolt.com/assets/69b26a08f86278773c63503e"
+  },
+  {
+    "id": "5bafb53df46f57fb0022699e",
+    "name": {
+      "EN": "99. Tuna Crunchy Roll",
+      "DE": "99. Tuna Crunchy Roll"
+    },
+    "category": "CRUNCHY ROLLS",
+    "description": {
+      "EN": "with cooked tuna and mayonnaise",
+      "DE": "with cooked tuna and mayonnaise"
+    },
+    "price": 13.5,
+    "image": "https://imageproxy.wolt.com/assets/69b26a1cf86278773c635044"
+  },
+  {
+    "id": "95514bb3c81491008c0f1ca9",
+    "name": {
+      "EN": "100. Chicken Crunchy Roll",
+      "DE": "100. Chicken Crunchy Roll"
+    },
+    "category": "CRUNCHY ROLLS",
+    "description": {
+      "EN": "with chicken and teriyaki sauce",
+      "DE": "with chicken and teriyaki sauce"
+    },
+    "price": 13.5,
+    "image": "https://imageproxy.wolt.com/assets/6826e774aaa4c60da76f8ccb"
+  },
+  {
+    "id": "d3458f64bb948419a282c11a",
+    "name": {
+      "EN": "54. Salmon Tartare",
+      "DE": "54. Salmon Tartare"
+    },
+    "category": "GUNKAN",
+    "description": {
+      "EN": "chopped salmon with spices",
+      "DE": "chopped salmon with spices"
+    },
+    "price": 6.5,
+    "image": "https://imageproxy.wolt.com/assets/69b26a3add30e9dbd31e057c"
+  },
+  {
+    "id": "bc3bd6bec27c8c51da79fff8",
+    "name": {
+      "EN": "55. Ebi Tatar",
+      "DE": "55. Ebi Tatar"
+    },
+    "category": "GUNKAN",
+    "description": {
+      "EN": "chopped prawns with spices",
+      "DE": "chopped prawns with spices"
+    },
+    "price": 7,
+    "image": ""
+  },
+  {
+    "id": "f21136be32035620695298dc",
+    "name": {
+      "EN": "56. Tuna Tartare",
+      "DE": "56. Tuna Tartare"
+    },
+    "category": "GUNKAN",
+    "description": {
+      "EN": "chopped tuna with spices",
+      "DE": "chopped tuna with spices"
+    },
+    "price": 7.5,
+    "image": "https://imageproxy.wolt.com/assets/69b26a5ddd30e9dbd31e058b"
+  },
+  {
+    "id": "b2a3af3cf979e2c1ba9e68fa",
+    "name": {
+      "EN": "57. Tuna Gunkan",
+      "DE": "57. Tuna Gunkan"
+    },
+    "category": "GUNKAN",
+    "description": {
+      "EN": "chopped tuna with mayonnaise and spices",
+      "DE": "chopped tuna with mayonnaise and spices"
+    },
+    "price": 7.5,
+    "image": "https://imageproxy.wolt.com/assets/69b26a69dd30e9dbd31e058d"
+  },
+  {
+    "id": "5b48a3bb92e8ac441fc93d88",
+    "name": {
+      "EN": "58. Ikura Gunkan",
+      "DE": "58. Ikura Gunkan"
+    },
+    "category": "GUNKAN",
+    "description": {
+      "EN": "with salmon caviar",
+      "DE": "with salmon caviar"
+    },
+    "price": 7.5,
+    "image": "https://imageproxy.wolt.com/assets/69b26a7cdd30e9dbd31e0591"
+  },
+  {
+    "id": "c5f97539a2d1d9585c6f1c9d",
+    "name": {
+      "EN": "59. Avocado Nigiri",
+      "DE": "59. Avocado Nigiri"
+    },
+    "category": "NIGIRI",
+    "description": {
+      "EN": "",
+      "DE": ""
+    },
+    "price": 6,
+    "image": "https://imageproxy.wolt.com/assets/69b26a90d5fdebcf7f69adf6"
+  },
+  {
+    "id": "4078f4147c075ea8a703ded5",
+    "name": {
+      "EN": "60. Tamago Nigiri",
+      "DE": "60. Tamago Nigiri"
+    },
+    "category": "NIGIRI",
+    "description": {
+      "EN": "",
+      "DE": ""
+    },
+    "price": 6,
+    "image": "https://imageproxy.wolt.com/assets/69b26aa1d5fdebcf7f69adfc"
+  },
+  {
+    "id": "d62e22fbd5e7fd30e820dcfb",
+    "name": {
+      "EN": "61. Salmon Nigiri",
+      "DE": "61. Salmon Nigiri"
+    },
+    "category": "NIGIRI",
+    "description": {
+      "EN": "",
+      "DE": ""
+    },
+    "price": 6.5,
+    "image": "https://imageproxy.wolt.com/assets/69b26ab2d5fdebcf7f69adff"
+  },
+  {
+    "id": "a37a3f3458582362556ad1ec",
+    "name": {
+      "EN": "62. Tuna Nigiri",
+      "DE": "62. Tuna Nigiri"
+    },
+    "category": "NIGIRI",
+    "description": {
+      "EN": "",
+      "DE": ""
+    },
+    "price": 7,
+    "image": "https://imageproxy.wolt.com/assets/69b26ac0d5fdebcf7f69ae04"
+  },
+  {
+    "id": "14b37df1741186bb5850e3e2",
+    "name": {
+      "EN": "63. Ebi Nigiri",
+      "DE": "63. Ebi Nigiri"
+    },
+    "category": "NIGIRI",
+    "description": {
+      "EN": "",
+      "DE": ""
+    },
+    "price": 7.5,
+    "image": "https://imageproxy.wolt.com/assets/69b26ad0f86278773c635070"
+  },
+  {
+    "id": "914bcf22742579d977300a98",
+    "name": {
+      "EN": "64. Scallop Nigiri",
+      "DE": "64. Scallop Nigiri"
+    },
+    "category": "NIGIRI",
+    "description": {
+      "EN": "",
+      "DE": ""
+    },
+    "price": 8.5,
+    "image": "https://imageproxy.wolt.com/assets/69b26ae8f86278773c635074"
+  },
+  {
+    "id": "6c0c2b86c11b557be9bb98be",
+    "name": {
+      "EN": "65. Unagi Nigiri",
+      "DE": "65. Unagi Nigiri"
+    },
+    "category": "NIGIRI",
+    "description": {
+      "EN": "",
+      "DE": ""
+    },
+    "price": 8.5,
+    "image": "https://imageproxy.wolt.com/assets/69b26af9f86278773c63507b"
+  },
+  {
+    "id": "3d3035214609464f8d49a631",
+    "name": {
+      "EN": "66. Takko Nigiri",
+      "DE": "66. Takko Nigiri"
+    },
+    "category": "NIGIRI",
+    "description": {
+      "EN": "",
+      "DE": ""
+    },
+    "price": 8.5,
+    "image": "https://imageproxy.wolt.com/assets/69b26b08f86278773c635080"
+  },
+  {
+    "id": "2c923c5a6600befa4f5b4fb2",
+    "name": {
+      "EN": "67. Flambéed Salmon Nigiri",
+      "DE": "67. Flambéed Salmon Nigiri"
+    },
+    "category": "NIGIRI",
+    "description": {
+      "EN": "",
+      "DE": ""
+    },
+    "price": 7,
+    "image": "https://imageproxy.wolt.com/assets/69b26b25f86278773c635086"
+  },
+  {
+    "id": "b93752f10226b7ffe5b4bc81",
+    "name": {
+      "EN": "68. Flambéed Tuna Nigiri",
+      "DE": "68. Flambéed Tuna Nigiri"
+    },
+    "category": "NIGIRI",
+    "description": {
+      "EN": "",
+      "DE": ""
+    },
+    "price": 7.5,
+    "image": ""
+  },
+  {
+    "id": "527f428c457d565f537b5274",
+    "name": {
+      "EN": "69. Flambéed Ebi Nigiri",
+      "DE": "69. Flambéed Ebi Nigiri"
+    },
+    "category": "NIGIRI",
+    "description": {
+      "EN": "",
+      "DE": ""
+    },
+    "price": 7.5,
+    "image": "https://imageproxy.wolt.com/assets/69b26b57f86278773c635095"
+  },
+  {
+    "id": "08714910977a9dafd636b357",
+    "name": {
+      "EN": "70. Flambéed Eel Nigiri",
+      "DE": "70. Flambéed Eel Nigiri"
+    },
+    "category": "NIGIRI",
+    "description": {
+      "EN": "",
+      "DE": ""
+    },
+    "price": 8.5,
+    "image": ""
+  },
+  {
+    "id": "5c24c6eb3e9b7c4cadf9b8e5",
+    "name": {
+      "EN": "71. Avocado Maki",
+      "DE": "71. Avocado Maki"
+    },
+    "category": "MAKI",
+    "description": {
+      "EN": "",
+      "DE": ""
+    },
+    "price": 6,
+    "image": "https://imageproxy.wolt.com/assets/69b26bcfdd30e9dbd31e05e5"
+  },
+  {
+    "id": "e1bd5f82f4c532b731036f8b",
+    "name": {
+      "EN": "72. Tamago Maki",
+      "DE": "72. Tamago Maki"
+    },
+    "category": "MAKI",
+    "description": {
+      "EN": "",
+      "DE": ""
+    },
+    "price": 6,
+    "image": "https://imageproxy.wolt.com/assets/69b26bded5fdebcf7f69ae53"
+  },
+  {
+    "id": "1b7ae11127e509444c2631f2",
+    "name": {
+      "EN": "73. Kappa Maki",
+      "DE": "73. Kappa Maki"
+    },
+    "category": "MAKI",
+    "description": {
+      "EN": "",
+      "DE": ""
+    },
+    "price": 6,
+    "image": "https://imageproxy.wolt.com/assets/69b26beed5fdebcf7f69ae57"
+  },
+  {
+    "id": "b74a4d9bd15944a99dcec0b5",
+    "name": {
+      "EN": "74. Salmon Maki",
+      "DE": "74. Salmon Maki"
+    },
+    "category": "MAKI",
+    "description": {
+      "EN": "",
+      "DE": ""
+    },
+    "price": 6,
+    "image": "https://imageproxy.wolt.com/assets/69b26bfcd5fdebcf7f69ae58"
+  },
+  {
+    "id": "f4d1a205c6f484777504b7f0",
+    "name": {
+      "EN": "75. Oshinko Maki",
+      "DE": "75. Oshinko Maki"
+    },
+    "category": "MAKI",
+    "description": {
+      "EN": "",
+      "DE": ""
+    },
+    "price": 6,
+    "image": "https://imageproxy.wolt.com/assets/69b26c0edd30e9dbd31e05f3"
+  },
+  {
+    "id": "7f4a87d87577d84cc41fb2f1",
+    "name": {
+      "EN": "76. Surimi Maki",
+      "DE": "76. Surimi Maki"
+    },
+    "category": "MAKI",
+    "description": {
+      "EN": "",
+      "DE": ""
+    },
+    "price": 6,
+    "image": "https://imageproxy.wolt.com/assets/69b26c1cdd30e9dbd31e05f7"
+  },
+  {
+    "id": "eefa7a9287c966b2782db20a",
+    "name": {
+      "EN": "77. Ebi Maki",
+      "DE": "77. Ebi Maki"
+    },
+    "category": "MAKI",
+    "description": {
+      "EN": "",
+      "DE": ""
+    },
+    "price": 7,
+    "image": "https://imageproxy.wolt.com/assets/69b26c28dd30e9dbd31e05fd"
+  },
+  {
+    "id": "35864ab46f4634730532ac31",
+    "name": {
+      "EN": "78. Salmon-Avocado Maki",
+      "DE": "78. Salmon-Avocado Maki"
+    },
+    "category": "MAKI",
+    "description": {
+      "EN": "",
+      "DE": ""
+    },
+    "price": 7,
+    "image": "https://imageproxy.wolt.com/assets/69b26c3edd30e9dbd31e0603"
+  },
+  {
+    "id": "0f7008ac23bbb405a2373865",
+    "name": {
+      "EN": "79. Tekka Maki",
+      "DE": "79. Tekka Maki"
+    },
+    "category": "MAKI",
+    "description": {
+      "EN": "",
+      "DE": ""
+    },
+    "price": 7.5,
+    "image": "https://imageproxy.wolt.com/assets/69b26c5cd5fdebcf7f69ae6f"
+  },
+  {
+    "id": "ef46bb37d573e1777603b26d",
+    "name": {
+      "EN": "80. Unagi Maki",
+      "DE": "80. Unagi Maki"
+    },
+    "category": "MAKI",
+    "description": {
+      "EN": "",
+      "DE": ""
+    },
+    "price": 8.5,
+    "image": "https://imageproxy.wolt.com/assets/69b26c9ef86278773c6350eb"
+  },
+  {
+    "id": "4004da60531b5c7873c976fc",
+    "name": {
+      "EN": "50. Salmon Sashimi",
+      "DE": "50. Salmon Sashimi"
+    },
+    "category": "SASHIMI",
+    "description": {
+      "EN": "",
+      "DE": ""
+    },
+    "price": 18,
+    "image": "https://imageproxy.wolt.com/assets/6826e4ba6c11c1b0ccaa217d"
+  },
+  {
+    "id": "43875c69dffbb7737c7c8eb6",
+    "name": {
+      "EN": "51. Tuna Sashimi",
+      "DE": "51. Tuna Sashimi"
+    },
+    "category": "SASHIMI",
+    "description": {
+      "EN": "",
+      "DE": ""
+    },
+    "price": 20,
+    "image": "https://imageproxy.wolt.com/assets/69b26cc0f86278773c6350f9"
+  },
+  {
+    "id": "7bdb8149f93e850581ddf532",
+    "name": {
+      "EN": "52. Mixed Sashimi",
+      "DE": "52. Mixed Sashimi"
+    },
+    "category": "SASHIMI",
+    "description": {
+      "EN": "with salmon and tuna",
+      "DE": "with salmon and tuna"
+    },
+    "price": 24,
+    "image": "https://imageproxy.wolt.com/assets/69b26ccdf86278773c635100"
+  },
+  {
+    "id": "935c41ddc01a6e8b79449a27",
+    "name": {
+      "EN": "53. Sashimi Deluxe",
+      "DE": "53. Sashimi Deluxe"
+    },
+    "category": "SASHIMI",
+    "description": {
+      "EN": "with salmon, tuna, ebi, scallops and tako",
+      "DE": "with salmon, tuna, ebi, scallops and tako"
+    },
+    "price": 35,
+    "image": ""
+  },
+  {
+    "id": "44b089b7404e585070117811",
+    "name": {
+      "EN": "Cooked Rice",
+      "DE": "Cooked Rice"
+    },
+    "category": "EXTRAS",
+    "description": {
+      "EN": "",
+      "DE": ""
+    },
+    "price": 4,
+    "image": "https://imageproxy.wolt.com/assets/69b26d04dd30e9dbd31e0635"
+  },
+  {
+    "id": "4a631004ffa07437a97cb63e",
+    "name": {
+      "EN": "Chili Fish Sauce",
+      "DE": "Chili Fish Sauce"
+    },
+    "category": "EXTRAS",
+    "description": {
+      "EN": "",
+      "DE": ""
+    },
+    "price": 4,
+    "image": ""
+  },
+  {
+    "id": "76522376073dd0203bf944ca",
+    "name": {
+      "EN": "Homemade Spicy Sauce",
+      "DE": "Homemade Spicy Sauce"
+    },
+    "category": "EXTRAS",
+    "description": {
+      "EN": "",
+      "DE": ""
+    },
+    "price": 4,
+    "image": ""
+  },
+  {
+    "id": "439a577fcba5ae032149e952",
+    "name": {
+      "EN": "Mango Coconut Sauce",
+      "DE": "Mango Coconut Sauce"
+    },
+    "category": "EXTRAS",
+    "description": {
+      "EN": "",
+      "DE": ""
+    },
+    "price": 4,
+    "image": ""
+  },
+  {
+    "id": "639c95ab69b6f7f12b5d0338",
+    "name": {
+      "EN": "Peanut Coconut Sauce",
+      "DE": "Peanut Coconut Sauce"
+    },
+    "category": "EXTRAS",
+    "description": {
+      "EN": "",
+      "DE": ""
+    },
+    "price": 4,
+    "image": ""
+  },
+  {
+    "id": "3c7c4f8f58e499a6aad55a71",
+    "name": {
+      "EN": "Sweet Chili Sauce",
+      "DE": "Sweet Chili Sauce"
+    },
+    "category": "EXTRAS",
+    "description": {
+      "EN": "",
+      "DE": ""
+    },
+    "price": 4,
+    "image": "https://imageproxy.wolt.com/assets/69b26de5f86278773c63512f"
+  },
+  {
+    "id": "3e91c27f2d6a5b64e8869a92",
+    "name": {
+      "EN": "Soy Sauce",
+      "DE": "Soy Sauce"
+    },
+    "category": "EXTRAS",
+    "description": {
+      "EN": "",
+      "DE": ""
+    },
+    "price": 4,
+    "image": "https://imageproxy.wolt.com/assets/69b26e2fdd30e9dbd31e069a"
+  },
+  {
+    "id": "99826d5ca59dc3633944d13d",
+    "name": {
+      "EN": "Breaded Chicken",
+      "DE": "Breaded Chicken"
+    },
+    "category": "EXTRAS",
+    "description": {
+      "EN": "",
+      "DE": ""
+    },
+    "price": 6,
+    "image": "https://imageproxy.wolt.com/assets/69b26e45dd30e9dbd31e06a0"
+  },
+  {
+    "id": "36aabf528c2ff5a42ba3aebb",
+    "name": {
+      "EN": "Crispy Duck",
+      "DE": "Crispy Duck"
+    },
+    "category": "EXTRAS",
+    "description": {
+      "EN": "",
+      "DE": ""
+    },
+    "price": 7,
+    "image": "https://imageproxy.wolt.com/assets/69b26e5bdd30e9dbd31e06a8"
+  },
+  {
+    "id": "wasser-0-2l",
+    "name": {
+      "EN": "Wasser 0.2l",
+      "DE": "Wasser 0.2l"
+    },
+    "description": {
+      "EN": "",
+      "DE": ""
+    },
+    "price": 2.5,
+    "category": "Getränke Alkoholfrei"
+  },
+  {
+    "id": "wasser-0-4l",
+    "name": {
+      "EN": "Wasser 0.4l",
+      "DE": "Wasser 0.4l"
+    },
+    "description": {
+      "EN": "",
+      "DE": ""
+    },
+    "price": 3.5,
+    "category": "Getränke Alkoholfrei"
+  },
+  {
+    "id": "stilles-wasser-0-2l",
+    "name": {
+      "EN": "Stilles Wasser 0.2l",
+      "DE": "Stilles Wasser 0.2l"
+    },
+    "description": {
+      "EN": "",
+      "DE": ""
+    },
+    "price": 2.5,
+    "category": "Getränke Alkoholfrei"
+  },
+  {
+    "id": "stilles-wasser-0-4l",
+    "name": {
+      "EN": "Stilles Wasser 0.4l",
+      "DE": "Stilles Wasser 0.4l"
+    },
+    "description": {
+      "EN": "",
+      "DE": ""
+    },
+    "price": 3.5,
+    "category": "Getränke Alkoholfrei"
+  },
+  {
+    "id": "flasche-wasser-1l",
+    "name": {
+      "EN": "Flasche Wasser (1l)",
+      "DE": "Flasche Wasser (1l)"
+    },
+    "description": {
+      "EN": "",
+      "DE": ""
+    },
+    "price": 5.5,
+    "category": "Getränke Alkoholfrei"
+  },
+  {
+    "id": "softdrinks-0-2l",
+    "name": {
+      "EN": "Softdrinks 0.2l",
+      "DE": "Softdrinks 0.2l"
+    },
+    "description": {
+      "EN": "Cola, Cola Light, Spezi, Sprite",
+      "DE": "Cola, Cola Light, Spezi, Sprite"
+    },
+    "price": 3.5,
+    "category": "Getränke Alkoholfrei"
+  },
+  {
+    "id": "softdrinks-0-4l",
+    "name": {
+      "EN": "Softdrinks 0.4l",
+      "DE": "Softdrinks 0.4l"
+    },
+    "description": {
+      "EN": "Cola, Cola Light, Spezi, Sprite",
+      "DE": "Cola, Cola Light, Spezi, Sprite"
+    },
+    "price": 4.5,
+    "category": "Getränke Alkoholfrei"
+  },
+  {
+    "id": "saefte-saftschorle-0-2l",
+    "name": {
+      "EN": "Säfte / Saftschorle 0.2l",
+      "DE": "Säfte / Saftschorle 0.2l"
+    },
+    "description": {
+      "EN": "Johannisbeer, Orange, Mango, Maracuja, Ananas, Litschi, Apfelschorle",
+      "DE": "Johannisbeer, Orange, Mango, Maracuja, Ananas, Litschi, Apfelschorle"
+    },
+    "price": 3.5,
+    "category": "Getränke Alkoholfrei"
+  },
+  {
+    "id": "saefte-saftschorle-0-4l",
+    "name": {
+      "EN": "Säfte / Saftschorle 0.4l",
+      "DE": "Säfte / Saftschorle 0.4l"
+    },
+    "description": {
+      "EN": "Johannisbeer, Orange, Mango, Maracuja, Ananas, Litschi, Apfelschorle",
+      "DE": "Johannisbeer, Orange, Mango, Maracuja, Ananas, Litschi, Apfelschorle"
+    },
+    "price": 4.5,
+    "category": "Getränke Alkoholfrei"
+  },
+  {
+    "id": "hausgemachter-eistee",
+    "name": {
+      "EN": "Hausgemachter Eistee",
+      "DE": "Hausgemachter Eistee"
+    },
+    "description": {
+      "EN": "",
+      "DE": ""
+    },
+    "price": 5.5,
+    "category": "Getränke Alkoholfrei"
+  },
+  {
+    "id": "hausgemachter-jasmin-eistee",
+    "name": {
+      "EN": "Hausgemachter Jasmin Eistee",
+      "DE": "Hausgemachter Jasmin Eistee"
+    },
+    "description": {
+      "EN": "",
+      "DE": ""
+    },
+    "price": 5.5,
+    "category": "Getränke Alkoholfrei"
+  },
+  {
+    "id": "hausgemachte-limonade",
+    "name": {
+      "EN": "Hausgemachte Limonade",
+      "DE": "Hausgemachte Limonade"
+    },
+    "description": {
+      "EN": "Limette, Kalamansi (Calamondin), Maracuja",
+      "DE": "Limette, Kalamansi (Calamondin), Maracuja"
+    },
+    "price": 5.5,
+    "category": "Getränke Alkoholfrei"
+  },
+  {
+    "id": "mango-smoothie",
+    "name": {
+      "EN": "Mango Smoothie",
+      "DE": "Mango Smoothie"
+    },
+    "description": {
+      "EN": "",
+      "DE": ""
+    },
+    "price": 6.5,
+    "category": "Getränke Alkoholfrei"
+  },
+  {
+    "id": "kaennchen-jasmintee-gruentee-klein",
+    "name": {
+      "EN": "Kännchen Jasmintee / Grüntee (Klein)",
+      "DE": "Kännchen Jasmintee / Grüntee (Klein)"
+    },
+    "description": {
+      "EN": "",
+      "DE": ""
+    },
+    "price": 3.5,
+    "category": "Tee & Kaffee"
+  },
+  {
+    "id": "kaennchen-jasmintee-gruentee-gross",
+    "name": {
+      "EN": "Kännchen Jasmintee / Grüntee (Groß)",
+      "DE": "Kännchen Jasmintee / Grüntee (Groß)"
+    },
+    "description": {
+      "EN": "",
+      "DE": ""
+    },
+    "price": 4.5,
+    "category": "Tee & Kaffee"
+  },
+  {
+    "id": "frischer-ingwer-tee",
+    "name": {
+      "EN": "Frischer Ingwer-Tee (auch mit Honig)",
+      "DE": "Frischer Ingwer-Tee (auch mit Honig)"
+    },
+    "description": {
+      "EN": "",
+      "DE": ""
+    },
+    "price": 3.5,
+    "category": "Tee & Kaffee"
+  },
+  {
+    "id": "frischer-pfefferminz-tee-zitrone",
+    "name": {
+      "EN": "Frischer Pfefferminz Tee - Zitrone",
+      "DE": "Frischer Pfefferminz Tee - Zitrone"
+    },
+    "description": {
+      "EN": "",
+      "DE": ""
+    },
+    "price": 3.5,
+    "category": "Tee & Kaffee"
+  },
+  {
+    "id": "kaffee",
+    "name": {
+      "EN": "Kaffee",
+      "DE": "Kaffee"
+    },
+    "description": {
+      "EN": "",
+      "DE": ""
+    },
+    "price": 3,
+    "category": "Tee & Kaffee"
+  },
+  {
+    "id": "espresso",
+    "name": {
+      "EN": "Espresso",
+      "DE": "Espresso"
+    },
+    "description": {
+      "EN": "",
+      "DE": ""
+    },
+    "price": 2.5,
+    "category": "Tee & Kaffee"
+  },
+  {
+    "id": "cappuccino",
+    "name": {
+      "EN": "Cappuccino",
+      "DE": "Cappuccino"
+    },
+    "description": {
+      "EN": "",
+      "DE": ""
+    },
+    "price": 3.5,
+    "category": "Tee & Kaffee"
+  },
+  {
+    "id": "latte-macchiato",
+    "name": {
+      "EN": "Latte Macchiato",
+      "DE": "Latte Macchiato"
+    },
+    "description": {
+      "EN": "",
+      "DE": ""
+    },
+    "price": 4.5,
+    "category": "Tee & Kaffee"
+  },
+  {
+    "id": "ca-phe-sua-da",
+    "name": {
+      "EN": "Cà Phê Sữa Đá",
+      "DE": "Cà Phê Sữa Đá"
+    },
+    "description": {
+      "EN": "vietnamesischer Kaffee, Kondensmilch (warm/ kalt)",
+      "DE": "vietnamesischer Kaffee, Kondensmilch (warm/ kalt)"
+    },
+    "price": 5.5,
+    "category": "Tee & Kaffee"
+  },
+  {
+    "id": "bac-xiu",
+    "name": {
+      "EN": "Bạc Xỉu",
+      "DE": "Bạc Xỉu"
+    },
+    "description": {
+      "EN": "vietnamesischer Kaffee, Vollmilch, Sahne und Kondensmilch (warm/kalt)",
+      "DE": "vietnamesischer Kaffee, Vollmilch, Sahne und Kondensmilch (warm/kalt)"
+    },
+    "price": 6.5,
+    "category": "Tee & Kaffee"
+  },
+  {
+    "id": "ca-phe-muoi",
+    "name": {
+      "EN": "Cà Phê Muối (Salz-Kaffee)",
+      "DE": "Cà Phê Muối (Salz-Kaffee)"
+    },
+    "description": {
+      "EN": "vietnamesischer Kaffee, Kondensmilch, gesalzene Sahne (warm/kalt)",
+      "DE": "vietnamesischer Kaffee, Kondensmilch, gesalzene Sahne (warm/kalt)"
+    },
+    "price": 6.5,
+    "category": "Tee & Kaffee"
+  },
+  {
+    "id": "darmstaedter-pilsner-0-3l",
+    "name": {
+      "EN": "Darmstädter Pilsner (vom Fass) (0.3l)",
+      "DE": "Darmstädter Pilsner (vom Fass) (0.3l)"
+    },
+    "description": {
+      "EN": "",
+      "DE": ""
+    },
+    "price": 3.5,
+    "category": "Getränke Alkohol"
+  },
+  {
+    "id": "darmstaedter-pilsner-0-5l",
+    "name": {
+      "EN": "Darmstädter Pilsner (vom Fass) (0.5l)",
+      "DE": "Darmstädter Pilsner (vom Fass) (0.5l)"
+    },
+    "description": {
+      "EN": "",
+      "DE": ""
+    },
+    "price": 4.5,
+    "category": "Getränke Alkohol"
+  },
+  {
+    "id": "radler-0-3l",
+    "name": {
+      "EN": "Radler (0.3l)",
+      "DE": "Radler (0.3l)"
+    },
+    "description": {
+      "EN": "",
+      "DE": ""
+    },
+    "price": 3.5,
+    "category": "Getränke Alkohol"
+  },
+  {
+    "id": "radler-0-5l",
+    "name": {
+      "EN": "Radler (0.5l)",
+      "DE": "Radler (0.5l)"
+    },
+    "description": {
+      "EN": "",
+      "DE": ""
+    },
+    "price": 4.5,
+    "category": "Getränke Alkohol"
+  },
+  {
+    "id": "braustuebl-alkoholfrei-0-33l",
+    "name": {
+      "EN": "Braustübl Alkoholfrei (0.33l)",
+      "DE": "Braustübl Alkoholfrei (0.33l)"
+    },
+    "description": {
+      "EN": "",
+      "DE": ""
+    },
+    "price": 3.8,
+    "category": "Getränke Alkohol"
+  },
+  {
+    "id": "darmstaedter-hefeweizen-0-5l",
+    "name": {
+      "EN": "Darmstädter Hefeweizen (0.5l)",
+      "DE": "Darmstädter Hefeweizen (0.5l)"
+    },
+    "description": {
+      "EN": "Hell, Dunkel, Alkoholfrei",
+      "DE": "Hell, Dunkel, Alkoholfrei"
+    },
+    "price": 4.5,
+    "category": "Getränke Alkohol"
+  },
+  {
+    "id": "asiatisches-bier-0-33l",
+    "name": {
+      "EN": "Asiatisches Bier (0.33l)",
+      "DE": "Asiatisches Bier (0.33l)"
+    },
+    "description": {
+      "EN": "Asahi (Japanisches Bier), Singha (Thailändisches Bier), Saigon (Vietnamesisches Bier)",
+      "DE": "Asahi (Japanisches Bier), Singha (Thailändisches Bier), Saigon (Vietnamesisches Bier)"
+    },
+    "price": 4,
+    "category": "Getränke Alkohol"
+  },
+  {
+    "id": "apfelwein-0-25l",
+    "name": {
+      "EN": "Apfelwein (0.25l) (pur, sauer, süß)",
+      "DE": "Apfelwein (0.25l) (pur, sauer, süß)"
+    },
+    "description": {
+      "EN": "",
+      "DE": ""
+    },
+    "price": 3.5,
+    "category": "Getränke Alkohol"
+  },
+  {
+    "id": "apfelwein-0-5l",
+    "name": {
+      "EN": "Apfelwein (0.5l) (pur, sauer, süß)",
+      "DE": "Apfelwein (0.5l) (pur, sauer, süß)"
+    },
+    "description": {
+      "EN": "",
+      "DE": ""
+    },
+    "price": 4.5,
+    "category": "Getränke Alkohol"
+  },
+  {
+    "id": "weisswein-0-2l",
+    "name": {
+      "EN": "Weißwein (0.2l)",
+      "DE": "Weißwein (0.2l)"
+    },
+    "description": {
+      "EN": "Müller-Thurgau halbtrocken, Riesling trocken",
+      "DE": "Müller-Thurgau halbtrocken, Riesling trocken"
+    },
+    "price": 4.5,
+    "category": "Getränke Alkohol"
+  },
+  {
+    "id": "merlot-rose-0-2l",
+    "name": {
+      "EN": "Merlot Rosé (0.2l)",
+      "DE": "Merlot Rosé (0.2l)"
+    },
+    "description": {
+      "EN": "Rosé de France, trocken",
+      "DE": "Rosé de France, trocken"
+    },
+    "price": 5,
+    "category": "Getränke Alkohol"
+  },
+  {
+    "id": "rotwein-trocken-0-2l",
+    "name": {
+      "EN": "Rotwein trocken (0.2l)",
+      "DE": "Rotwein trocken (0.2l)"
+    },
+    "description": {
+      "EN": "Merlot, Spätburgunder",
+      "DE": "Merlot, Spätburgunder"
+    },
+    "price": 5,
+    "category": "Getränke Alkohol"
+  },
+  {
+    "id": "heisser-pflaumenwein",
+    "name": {
+      "EN": "Heisser Pflaumenwein (4cl)",
+      "DE": "Heisser Pflaumenwein (4cl)"
+    },
+    "description": {
+      "EN": "",
+      "DE": ""
+    },
+    "price": 4,
+    "category": "Getränke Alkohol"
+  },
+  {
+    "id": "nep-moi",
+    "name": {
+      "EN": "Nếp Mới (vietnamesische Schnaps) (2cl)",
+      "DE": "Nếp Mới (vietnamesische Schnaps) (2cl)"
+    },
+    "description": {
+      "EN": "",
+      "DE": ""
+    },
+    "price": 5,
+    "category": "Getränke Alkohol"
+  },
+  {
+    "id": "shochu",
+    "name": {
+      "EN": "Shōchū (japanische Schnaps) (4cl)",
+      "DE": "Shōchū (japanische Schnaps) (4cl)"
+    },
+    "description": {
+      "EN": "",
+      "DE": ""
+    },
+    "price": 5,
+    "category": "Getränke Alkohol"
+  },
+  {
+    "id": "sake",
+    "name": {
+      "EN": "Sake (warm/kalt japanischer Reiswein) (10cl)",
+      "DE": "Sake (warm/kalt japanischer Reiswein) (10cl)"
+    },
+    "description": {
+      "EN": "",
+      "DE": ""
+    },
+    "price": 8.5,
+    "category": "Getränke Alkohol"
+  },
+  {
+    "id": "hugo-spritz",
+    "name": {
+      "EN": "Hugo Spritz",
+      "DE": "Hugo Spritz"
+    },
+    "description": {
+      "EN": "Holunderblüte, Prosecco",
+      "DE": "Holunderblüte, Prosecco"
+    },
+    "price": 6.5,
+    "category": "Cocktails & Aperitifs"
+  },
+  {
+    "id": "yuzu-spritz",
+    "name": {
+      "EN": "Yuzu Spritz",
+      "DE": "Yuzu Spritz"
+    },
+    "description": {
+      "EN": "Yuzu Sake, Basilikum, Prosecco",
+      "DE": "Yuzu Sake, Basilikum, Prosecco"
+    },
+    "price": 6.5,
+    "category": "Cocktails & Aperitifs"
+  },
+  {
+    "id": "aperol-spritz",
+    "name": {
+      "EN": "Aperol Spritz",
+      "DE": "Aperol Spritz"
+    },
+    "description": {
+      "EN": "Aperol, Prosecco",
+      "DE": "Aperol, Prosecco"
+    },
+    "price": 6.5,
+    "category": "Cocktails & Aperitifs"
+  },
+  {
+    "id": "happy-spritz",
+    "name": {
+      "EN": "Happy Spritz",
+      "DE": "Happy Spritz"
+    },
+    "description": {
+      "EN": "Wassermelone, Aprikosen, Weisswein, Prosecco",
+      "DE": "Wassermelone, Aprikosen, Weisswein, Prosecco"
+    },
+    "price": 6.5,
+    "category": "Cocktails & Aperitifs"
+  },
+  {
+    "id": "mojito",
+    "name": {
+      "EN": "Mojito",
+      "DE": "Mojito"
+    },
+    "description": {
+      "EN": "Brauner Rum, Rohrzucker, Limette, Minze, Havana Club",
+      "DE": "Brauner Rum, Rohrzucker, Limette, Minze, Havana Club"
+    },
+    "price": 7.5,
+    "category": "Cocktails & Aperitifs"
+  },
+  {
+    "id": "margarita",
+    "name": {
+      "EN": "Margarita",
+      "DE": "Margarita"
+    },
+    "description": {
+      "EN": "Tequila, Cointreau, Limetten, Salz",
+      "DE": "Tequila, Cointreau, Limetten, Salz"
+    },
+    "price": 8.5,
+    "category": "Cocktails & Aperitifs"
+  },
+  {
+    "id": "pina-colada",
+    "name": {
+      "EN": "Pina Colada",
+      "DE": "Pina Colada"
+    },
+    "description": {
+      "EN": "Cream of Coconut, Barcadi, Ananassaft",
+      "DE": "Cream of Coconut, Barcadi, Ananassaft"
+    },
+    "price": 7.5,
+    "category": "Cocktails & Aperitifs"
+  },
+  {
+    "id": "mai-tai",
+    "name": {
+      "EN": "Mai Tai",
+      "DE": "Mai Tai"
+    },
+    "description": {
+      "EN": "Brauner Rum, Havana Club, Cointreau, Mandelsirup, Orangen-, Ananassaft",
+      "DE": "Brauner Rum, Havana Club, Cointreau, Mandelsirup, Orangen-, Ananassaft"
+    },
+    "price": 8.5,
+    "category": "Cocktails & Aperitifs"
+  },
+  {
+    "id": "sex-on-the-beach",
+    "name": {
+      "EN": "Sex on the beach",
+      "DE": "Sex on the beach"
+    },
+    "description": {
+      "EN": "Wodka, Pfirsich Likör, Cranberrysirup, Orangensaft",
+      "DE": "Wodka, Pfirsich Likör, Cranberrysirup, Orangensaft"
+    },
+    "price": 8.5,
+    "category": "Cocktails & Aperitifs"
+  },
+  {
+    "id": "zombie",
+    "name": {
+      "EN": "Zombie",
+      "DE": "Zombie"
+    },
+    "description": {
+      "EN": "Brauner Rum, Havana Club, Cointreau, Barcadi, Apricot Brandy, Grenadinesirup, Ananas-, Orangen-, Limettensaft",
+      "DE": "Brauner Rum, Havana Club, Cointreau, Barcadi, Apricot Brandy, Grenadinesirup, Ananas-, Orangen-, Limettensaft"
+    },
+    "price": 8.5,
+    "category": "Cocktails & Aperitifs"
+  },
+  {
+    "id": "miami",
+    "name": {
+      "EN": "Miami",
+      "DE": "Miami"
+    },
+    "description": {
+      "EN": "Ananassaft, Limettensaft, Rohrzucker, Wassermelonesirup, Grenadinesirup",
+      "DE": "Ananassaft, Limettensaft, Rohrzucker, Wassermelonesirup, Grenadinesirup"
+    },
+    "price": 7.5,
+    "category": "Mocktails"
+  },
+  {
+    "id": "aloe-vera-chia",
+    "name": {
+      "EN": "Aloe Vera Chia",
+      "DE": "Aloe Vera Chia"
+    },
+    "description": {
+      "EN": "Limettensaft, Chiasamen, Rohrzucker, Aloe Vera, Litschi, Beerenmix",
+      "DE": "Limettensaft, Chiasamen, Rohrzucker, Aloe Vera, Litschi, Beerenmix"
+    },
+    "price": 7.5,
+    "category": "Mocktails"
+  },
+  {
+    "id": "coconut-kiss",
+    "name": {
+      "EN": "Coconut Kiss",
+      "DE": "Coconut Kiss"
+    },
+    "description": {
+      "EN": "Cream of Coconut, Ananassaft",
+      "DE": "Cream of Coconut, Ananassaft"
+    },
+    "price": 7.5,
+    "category": "Mocktails"
+  },
+  {
+    "id": "strawberry-basil",
+    "name": {
+      "EN": "Strawberry Basil",
+      "DE": "Strawberry Basil"
+    },
+    "description": {
+      "EN": "Erdbeersirup, Limettensaft, Rohrzucker, Basilikum",
+      "DE": "Erdbeersirup, Limettensaft, Rohrzucker, Basilikum"
+    },
+    "price": 7.5,
+    "category": "Mocktails"
+  },
+  {
+    "id": "strawberry-coco",
+    "name": {
+      "EN": "Strawberry Coco",
+      "DE": "Strawberry Coco"
+    },
+    "description": {
+      "EN": "Cream of Coconut, Ananassaft, Erdbeersirup",
+      "DE": "Cream of Coconut, Ananassaft, Erdbeersirup"
+    },
+    "price": 7.5,
+    "category": "Mocktails"
+  }
+]

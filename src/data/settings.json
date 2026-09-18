@@ -1,0 +1,299 @@
+{
+  "logo": "/uploads/1789632156036-logo.png",
+  "footerText": {
+    "EN": "Authentic Asian cuisine in Darmstadt. Order online for delivery or pickup.",
+    "DE": "Authentische asiatische Küche in Darmstadt. Online bestellen zur Lieferung oder Abholung."
+  },
+  "phone": "+49 6151 6086915",
+  "address": "Bessunger Straße 91, 64285 Darmstadt",
+  "mapLink": "https://maps.app.goo.gl/JT57LPNGd7wAdWwp8",
+  "heroBgImage": "/images/hero.jpg",
+  "heroTitle": {
+    "EN": "Blazing Wok,\nAuthentic Asian Flavors.",
+    "DE": "Brennendes Wok-Hei,\nAuthentische asiatische Aromen."
+  },
+  "heroSubtitle": {
+    "EN": "Experience the art of traditional Wok cooking and fresh Sushi in a unique botanical garden setting in the heart of Darmstadt.",
+    "DE": "Erleben Sie die Kunst der traditionellen Wok-Küche und frisches Sushi in einem einzigartigen botanischen Garten mitten in Darmstadt."
+  },
+  "openingHours": {
+    "monday": "11:00 - 22:30",
+    "tuesday": "11:00 - 22:30",
+    "wednesday": "11:00 - 22:30",
+    "thursday": "11:00 - 22:30",
+    "friday": "11:00 - 23:00",
+    "saturday": "12:00 - 23:00",
+    "sunday": "12:00 - 22:30"
+  },
+  "categoryOrder": [
+    "MENUS",
+    "STARTERS 🫛",
+    "SALADS",
+    "SOUPS",
+    "MAIN COURSES ️",
+    "RICE & NOODLES",
+    "GARDEN SPECIALTIES",
+    "GARDEN SIGNATURE ROLLS",
+    "INSIDE OUT ROLLS",
+    "CRUNCHY ROLLS",
+    "GUNKAN",
+    "NIGIRI",
+    "MAKI",
+    "SASHIMI",
+    "EXTRAS",
+    "Getränke Alkoholfrei",
+    "Tee & Kaffee",
+    "Getränke Alkohol",
+    "Cocktails & Aperitifs",
+    "Mocktails"
+  ],
+  "heroBgImages": [
+    "/uploads/1789619962977-anh1.jpg",
+    "/uploads/1789630646690-anh2.jpg",
+    "/uploads/1789630858857-anh3.jpg"
+  ],
+  "categories": [
+    {
+      "name": {
+        "EN": "MENUS",
+        "DE": "MENÜS"
+      },
+      "icon": "restaurant_menu",
+      "showOnHomepage": true
+    },
+    {
+      "name": {
+        "EN": "STARTERS 🫛",
+        "DE": "VORSPEISEN 🫛"
+      },
+      "icon": "restaurant_menu",
+      "showOnHomepage": true
+    },
+    {
+      "name": {
+        "EN": "SALADS",
+        "DE": "SALATE"
+      },
+      "icon": "restaurant_menu",
+      "showOnHomepage": true
+    },
+    {
+      "name": {
+        "EN": "SOUPS",
+        "DE": "SUPPEN"
+      },
+      "icon": "restaurant_menu",
+      "showOnHomepage": true
+    },
+    {
+      "name": {
+        "EN": "MAIN COURSES ️",
+        "DE": "HAUPTGERICHTE ️"
+      },
+      "icon": "restaurant_menu",
+      "showOnHomepage": true
+    },
+    {
+      "name": {
+        "EN": "RICE & NOODLES",
+        "DE": "REIS & NUDELN"
+      },
+      "icon": "restaurant_menu"
+    },
+    {
+      "name": {
+        "EN": "GARDEN SPECIALTIES",
+        "DE": "GARTEN SPEZIALITÄTEN"
+      },
+      "icon": "restaurant_menu"
+    },
+    {
+      "name": {
+        "EN": "GARDEN SIGNATURE ROLLS",
+        "DE": "GARTEN SIGNATURE ROLLS"
+      },
+      "icon": "restaurant_menu"
+    },
+    {
+      "name": {
+        "EN": "INSIDE OUT ROLLS",
+        "DE": "INSIDE OUT ROLLS"
+      },
+      "icon": "restaurant_menu"
+    },
+    {
+      "name": {
+        "EN": "CRUNCHY ROLLS",
+        "DE": "CRUNCHY ROLLS"
+      },
+      "icon": "restaurant_menu"
+    },
+    {
+      "name": {
+        "EN": "GUNKAN",
+        "DE": "GUNKAN"
+      },
+      "icon": "restaurant_menu"
+    },
+    {
+      "name": {
+        "EN": "NIGIRI",
+        "DE": "NIGIRI"
+      },
+      "icon": "restaurant_menu"
+    },
+    {
+      "name": {
+        "EN": "MAKI",
+        "DE": "MAKI"
+      },
+      "icon": "restaurant_menu"
+    },
+    {
+      "name": {
+        "EN": "SASHIMI",
+        "DE": "SASHIMI"
+      },
+      "icon": "restaurant_menu"
+    },
+    {
+      "name": {
+        "EN": "EXTRAS",
+        "DE": "EXTRAS"
+      },
+      "icon": "restaurant_menu"
+    },
+    {
+      "name": {
+        "EN": "Getränke Alkoholfrei",
+        "DE": "Alkoholfreie Getränke"
+      },
+      "icon": "local_drink"
+    },
+    {
+      "name": {
+        "EN": "Tee & Kaffee",
+        "DE": "Tee & Kaffee"
+      },
+      "icon": "local_cafe"
+    },
+    {
+      "name": {
+        "EN": "Getränke Alkohol",
+        "DE": "Alkoholische Getränke"
+      },
+      "icon": "local_bar"
+    },
+    {
+      "name": {
+        "EN": "Cocktails & Aperitifs",
+        "DE": "Cocktails & Aperitifs"
+      },
+      "icon": "local_bar"
+    },
+    {
+      "name": {
+        "EN": "Mocktails",
+        "DE": "Mocktails"
+      },
+      "icon": "wine_bar"
+    }
+  ],
+  "showCompleteMenuOnHomepage": true,
+  "ambiance": {
+    "heroImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuCtZ12Dg_HaAZKdAg8_viIfEdFdwAFQGkg6_CDsa4R6SeMb2Q8lSupkcfSp65ZVixilAEDYb3bMXcyzAp-C7xenwPE_qV3SDnpsMgl5dwlYFnZak10S7_Rl1lyFLf6FdzEdqjltUtJK4zqReJoeIQ2ifcvBYH1YkHv3cTZWF4MWT9YkHY7x9CdBwdDJe5ia9_vleop449FsxVEqxRlo9Jp4huGPf_mQCeGBREv2Z7F4aueNnwb8_s16",
+    "heroTitle": {
+      "EN": "Immerse in the Asian Experience",
+      "DE": "Tauchen Sie ein in das asiatische Erlebnis"
+    },
+    "heroSubtitle": {
+      "EN": "Bessungen • Darmstadt — Where botanical calm meets culinary theatre.",
+      "DE": "Bessungen • Darmstadt — Wo botanische Ruhe auf kulinarisches Theater trifft."
+    },
+    "philosophyTitle": {
+      "EN": "Where Nature Meets Craft.",
+      "DE": "Wo Natur auf Handwerk trifft."
+    },
+    "philosophyDesc": {
+      "EN": "Step into an oasis of calm in Darmstadt-Bessungen, where lush tropical greenery and warm amber lighting frame every culinary creation. Every table is a sanctuary designed for lingering conversations and sensory discovery.",
+      "DE": "Treten Sie ein in eine Oase der Ruhe in Darmstadt-Bessungen, wo üppiges tropisches Grün und warme bernsteinfarbene Beleuchtung jede kulinarische Kreation umrahmen."
+    },
+    "highlights": [
+      {
+        "value": "120+",
+        "label": {
+          "EN": "Lush Botanicals",
+          "DE": "Üppige Botanik"
+        }
+      },
+      {
+        "value": "300°C",
+        "label": {
+          "EN": "Wok-Hei Flames",
+          "DE": "Wok-Hei Flammen"
+        }
+      },
+      {
+        "value": "3 Zones",
+        "label": {
+          "EN": "Harmonious Spaces",
+          "DE": "Harmonische Räume"
+        }
+      }
+    ],
+    "gallery": [
+      {
+        "id": 1,
+        "url": "https://lh3.googleusercontent.com/aida/AEtjO1VzbwX-t1xxTEsln21vRH8IKb_YzAE46vSa56k0ACOHkq2uxSLtKfNDTrDN7dueH9fVkEdTR76urcLYSWM33ckxMvNCbc4NyyZZXyQnJTf-KGDM1LSu2QQn5Oet_g14lyWwNAZQNXn4bPiJFHbHRh0gtTUrYtBpnnP1oGRF8fEsd0AevAjWXucwdP65unq5PkTN1pCRmGFVijybwUlVeXq2DMd-EQ90Z4yjeR3xFZM-6OoAFk991v8P7_0",
+        "title": {
+          "EN": "Atmosphere",
+          "DE": "Atmosphäre"
+        },
+        "description": {
+          "EN": "Warm Botanics & Dark Woods",
+          "DE": "Warme Botanik & Dunkle Hölzer"
+        },
+        "showOnHomepage": true
+      },
+      {
+        "id": 2,
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuD9_6SVEwPN0HcFH_hv-1AbOTtdkHHjZMERIRtZWRakvHmB6A29CjpgqLqH9y2QHogb4JavfS_TDAwJZcMVm6hJgCFra9sgPPlejyRy2d7djpb5rHcK_XnO85zHW6oq8oqnQhtsggEZ655nh1dGgN2WWgEJbKTAsJesjajTyyeBqccC-SrWuLhyJEAxCbJxGJBM0jYA3YjwrOMPo9Hh_teO-TR1MWwYTxykq3Rtwnh3oBS7bZ8RGtSU",
+        "title": {
+          "EN": "Exhibition Kitchen",
+          "DE": "Schauküche"
+        },
+        "description": {
+          "EN": "High-Heat Wok Hei Mastery",
+          "DE": "Meisterhaftes Wok-Hei"
+        },
+        "showOnHomepage": true
+      },
+      {
+        "id": 3,
+        "url": "https://lh3.googleusercontent.com/aida-public/AB6AXuDAusgYYzfl9u9oiiemylJUKecox6TFQ4cG7CzdW0EuMwMqcf07hCfh_KCqMgzhhmQITWC9YsJi2SAVamMerq4xbox_CceI59pJlu6yfZqsjxm8foLUKXCI5qWS9tLcMvAqmwXdkz94RBsN3HW2N8Y_LVrb8e9H8rDdAAWLGrpPOLL1b-E6K_hRWFckOC-suH25oudi1nZEWu6d-jZZN-13lLyqIHSFXML-y7-27yOyhLVbBZ4PJPVx",
+        "title": {
+          "EN": "Sushi Art",
+          "DE": "Sushi-Kunst"
+        },
+        "description": {
+          "EN": "Fresh Cut Daily by Artisans",
+          "DE": "Täglich frisch von Hand geschnitten"
+        },
+        "showOnHomepage": true
+      },
+      {
+        "id": 1789639006343,
+        "url": "https://scontent.fhan5-9.fna.fbcdn.net/v/t39.30808-6/495277706_1602149704072093_5327823111713280252_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x1536&ctp=s2048x1536&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=f727a1&_nc_eui2=AeGm9TK7VyjLKe5zrBFLg2DttQOsoQLlUOS1A6yhAuVQ5Cp-sBDJNoM-gDPu5XXZCOY&_nc_ohc=HJ-SyyFMTLsQ7kNvwGMCTEM&_nc_oc=AdrCbZYphOMjgK_PzAsSAtVPvRTmGO6o0564rvw5XMKUVNV-nVSdDYs4Pex86YE4PgQYeLTN3BgcYR2i6V0gxsjj&_nc_zt=23&_nc_ht=scontent.fhan5-9.fna&_nc_gid=9RsFalw-EtxdKOefhp_tgA&_nc_ss=7b2a8&oh=00_AQK4MIO01h8KpLbDZnBOCTef0n3IGFUQl-zA3Y01o8kWFQ&oe=6AB1A5CD",
+        "title": {
+          "EN": "Exhibition Kitchen",
+          "DE": "Schauküche"
+        },
+        "description": {
+          "EN": "High-Heat Wok Hei Mastery",
+          "DE": "Meisterhaftes Wok-Hei"
+        },
+        "showOnHomepage": true
+      }
+    ]
+  }
+}
