@@ -22,10 +22,9 @@ export async function POST(request: Request) {
       await fileRef.save(buffer, {
         metadata: {
           contentType: file.type,
-        },
-        public: true, // Make it publicly accessible
+        }
       });
-      const publicUrl = `https://storage.googleapis.com/${bucket.name}/uploads/${uniqueName}`;
+      const publicUrl = `https://firebasestorage.googleapis.com/v0/b/${bucket.name}/o/${encodeURIComponent(`uploads/${uniqueName}`)}?alt=media`;
       return NextResponse.json({ success: true, url: publicUrl });
     } catch (fbError) {
       console.error("Firebase Storage error, falling back to local:", fbError);
