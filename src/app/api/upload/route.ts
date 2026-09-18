@@ -1,9 +1,12 @@
 import { NextResponse } from 'next/server';
+import { verifyAuth } from '@/lib/authAdmin';
 import fs from 'fs';
 import path from 'path';
 import { storage } from '@/lib/firebase';
 
 export async function POST(request: Request) {
+  const decoded = await verifyAuth(request);
+  if (!decoded) return NextResponse.json({ error: 'Unauthorized' }, { status: 401 });
   try {
     const formData = await request.formData();
     const file = formData.get('file') as File;

@@ -2,8 +2,10 @@
 import { useState, useEffect } from 'react';
 
 import { useAdmin } from '@/context/AdminContext';
+import { useAuth } from '@/context/AuthContext';
 
 export default function AdminMenu() {
+  const { getIdToken } = useAuth();
   const { adminLang } = useAdmin();
   const [menuItems, setMenuItems] = useState<any[]>([]);
   const [loading, setLoading] = useState(true);
@@ -60,7 +62,7 @@ export default function AdminMenu() {
     setSaving(true);
     await fetch('/api/menu', {
       method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
+      headers: { 'Content-Type': 'application/json', 'Authorization': `Bearer ${await getIdToken()}`},
       body: JSON.stringify(newItems)
     });
     setMenuItems(newItems);

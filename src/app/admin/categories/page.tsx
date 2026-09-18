@@ -2,8 +2,10 @@
 import { useState, useEffect } from 'react';
 
 import { useAdmin } from '@/context/AdminContext';
+import { useAuth } from '@/context/AuthContext';
 
 export default function AdminCategories() {
+  const { getIdToken } = useAuth();
   const { adminLang } = useAdmin();
   const [categories, setCategories] = useState<any[]>([]);
   const [settings, setSettings] = useState<any>(null);
@@ -100,7 +102,7 @@ export default function AdminCategories() {
     const newSettings = { ...settings, categories, categoryOrder: categories.map(c => typeof c.name === 'object' ? c.name.EN : c.name) };
     await fetch('/api/settings', {
       method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
+      headers: { 'Content-Type': 'application/json', 'Authorization': `Bearer ${await getIdToken()}` },
       body: JSON.stringify(newSettings)
     });
     setSettings(newSettings);

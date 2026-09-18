@@ -2,8 +2,10 @@
 import { useState, useEffect } from 'react';
 
 import { useAdmin } from '@/context/AdminContext';
+import { useAuth } from '@/context/AuthContext';
 
 export default function AdminHomepage() {
+  const { getIdToken } = useAuth();
   const { adminLang } = useAdmin();
   const [settings, setSettings] = useState<any>(null);
   const [loading, setLoading] = useState(true);
@@ -29,7 +31,7 @@ export default function AdminHomepage() {
     try {
       const res = await fetch('/api/settings', {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
+        headers: { 'Content-Type': 'application/json', 'Authorization': `Bearer ${await getIdToken()}`},
         body: JSON.stringify(settings)
       });
       if (res.ok) {
@@ -59,6 +61,7 @@ export default function AdminHomepage() {
     try {
       const res = await fetch('/api/upload', {
         method: 'POST',
+        headers: { 'Authorization': `Bearer ${await getIdToken()}`},
         body: formData,
       });
       const data = await res.json();

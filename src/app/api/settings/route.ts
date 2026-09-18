@@ -1,4 +1,5 @@
 import { NextResponse } from 'next/server';
+import { verifyAuth } from '@/lib/authAdmin';
 import fs from 'fs';
 import path from 'path';
 import { db } from '@/lib/firebase';
@@ -25,6 +26,8 @@ export async function GET() {
 }
 
 export async function POST(request: Request) {
+  const decoded = await verifyAuth(request);
+  if (!decoded) return NextResponse.json({ error: 'Unauthorized' }, { status: 401 });
   try {
     const body = await request.json();
     

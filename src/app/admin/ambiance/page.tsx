@@ -2,8 +2,10 @@
 import { useState, useEffect } from 'react';
 
 import { useAdmin } from '@/context/AdminContext';
+import { useAuth } from '@/context/AuthContext';
 
 export default function AdminAmbiance() {
+  const { getIdToken } = useAuth();
   const { adminLang } = useAdmin();
   const [settings, setSettings] = useState<any>(null);
   const [ambiance, setAmbiance] = useState<any>({
@@ -98,6 +100,7 @@ export default function AdminAmbiance() {
     try {
       const res = await fetch('/api/upload', {
         method: 'POST',
+        headers: { 'Authorization': `Bearer ${await getIdToken()}`},
         body: formData,
       });
       const data = await res.json();
@@ -120,7 +123,7 @@ export default function AdminAmbiance() {
     const newSettings = { ...settings, ambiance };
     await fetch('/api/settings', {
       method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
+      headers: { 'Content-Type': 'application/json', 'Authorization': `Bearer ${await getIdToken()}`},
       body: JSON.stringify(newSettings)
     });
     setSettings(newSettings);
